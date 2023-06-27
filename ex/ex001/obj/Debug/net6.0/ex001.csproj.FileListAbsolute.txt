@@ -1,0 +1,15 @@
+X:\GEEKBRAINS\C#Test\ex\ex001\bin\Debug\net6.0\ex001.exe
+X:\GEEKBRAINS\C#Test\ex\ex001\bin\Debug\net6.0\ex001.deps.json
+X:\GEEKBRAINS\C#Test\ex\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+X:\GEEKBRAINS\C#Test\ex\ex001\bin\Debug\net6.0\ex001.dll
+X:\GEEKBRAINS\C#Test\ex\ex001\bin\Debug\net6.0\ex001.pdb
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.dll
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\refint\ex001.dll
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.pdb
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
+X:\GEEKBRAINS\C#Test\ex\ex001\obj\Debug\net6.0\ref\ex001.dll
